@@ -1,1 +1,1 @@
-# walmart-manifests-multi-cluster
+# dev-manifests-multi-cluster
